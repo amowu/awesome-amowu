@@ -20,7 +20,7 @@
   - [EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)
   - [Emmet](https://github.com/sergeche/emmet-sublime)
   - [Evernote](https://github.com/bordaigorl/sublime-evernote)
-  - [Focus File On Sidebar](https://github.com/miguelgraz/FocusFileOnSidebar()
+  - [Focus File On Sidebar](https://github.com/miguelgraz/FocusFileOnSidebar)
   - [GitGutter](https://github.com/jisaacks/GitGutter)
   - [GitSavvy](https://github.com/divmain/GitSavvy)
   - [JavaScript & NodeJS Snippets](https://github.com/zenorocha/sublime-javascript-snippets)
