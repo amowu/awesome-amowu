@@ -30,7 +30,7 @@
   - [SidebarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
   - [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
   - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3)
-  - [SublimeLinter-contrib-standard](https://github.com/Flet/Sublimelinter-contrib-standard)
+  - [SublimeLinter-eslint](https://github.com/roadhump/SublimeLinter-eslint)
   - [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview)
 - [Atom](https://atom.io/)
   - [activate-power-mode](https://atom.io/packages/activate-power-mode)
