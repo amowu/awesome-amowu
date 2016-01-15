@@ -36,9 +36,7 @@
 ## Miscellaneous
 
 - [Sketch](https://github.com/diessica/awesome-sketch) *(OS X app)*
-  - [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout) - Plugin for Sketch allowing for CSS Flexbox layouts using stylesheets and prototypes
   - [Sketch Measure](https://github.com/utom/sketch-measure) - A measure tool for measurements & design specs.
-  - [Sketch Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory) - Review, import & export styles in Sketch.
 
 ## License
 
