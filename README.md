@@ -32,9 +32,6 @@
   - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3)
   - [SublimeLinter-eslint](https://github.com/roadhump/SublimeLinter-eslint)
   - [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview)
-- [Atom](https://atom.io/)
-  - [activate-power-mode](https://atom.io/packages/activate-power-mode)
-  - [atom-ternjs](https://atom.io/packages/atom-ternjs)
 
 ## Miscellaneous
 
