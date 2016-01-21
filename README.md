@@ -29,6 +29,7 @@
   - [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
   - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3)
   - [SublimeLinter-eslint](https://github.com/roadhump/SublimeLinter-eslint)
+  - [Syntax-highlighting-for-Sass](https://github.com/P233/Syntax-highlighting-for-Sass)
   - [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview)
 
 ## Miscellaneous
